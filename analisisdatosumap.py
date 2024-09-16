@@ -1,3 +1,4 @@
+"""""
 pip install -U loompy
 
 pip install anndata
@@ -5,6 +6,7 @@ pip install anndata
 pip install anndata numpy matplotlib scipy requests
 
 pip install scanpy
+"""""
 
 import anndata
 import numpy as np
